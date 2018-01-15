@@ -1,2 +1,2 @@
-# redis_
-redis学习
+# redis
+redis学习笔记
